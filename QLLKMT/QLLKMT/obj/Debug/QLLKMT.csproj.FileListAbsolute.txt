@@ -1,0 +1,165 @@
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\bin\Debug\QLLKMT.exe.config
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\bin\Debug\QLLKMT.exe
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\bin\Debug\QLLKMT.pdb
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FormMain.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmBanHang.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmCV.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmKH.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmLSP.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmNCC.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmNV.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmSP.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Login.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Properties.Resources.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Register.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.GenerateResource.cache
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.CoreCompileInputs.cache
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.exe
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.pdb
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csprojAssemblyReference.cache
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmSalary.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.ResolveComReference.cache
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.infoKH.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkdt.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkenhanvien.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.HoaDon.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmPay.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkkh.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Ycbh.resources
+C:\Users\84961\source\repos\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmBaoHanh.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.AssemblyReference.cache
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.SuggestedBindingRedirects.cache
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.ResolveComReference.cache
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FormMain.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmBanHang.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmBaoHanh.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmCV.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmKH.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmLSP.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmNCC.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmNV.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmPay.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmSalary.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmSP.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.HoaDon.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.infoKH.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Login.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Properties.Resources.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Register.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkdt.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkenhanvien.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkkh.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Ycbh.resources
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.GenerateResource.cache
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.CoreCompileInputs.cache
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.exe
+C:\Users\mjken\OneDrive\Desktop\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.pdb
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\bin\Debug\QLLKMT.exe.config
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\bin\Debug\QLLKMT.exe
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\bin\Debug\QLLKMT.pdb
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csprojAssemblyReference.cache
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.ResolveComReference.cache
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FormMain.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmBanHang.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmBaoHanh.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmCV.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmKH.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmLSP.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmNCC.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmNV.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmPay.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmSalary.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmSP.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmTD.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.gthieu.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.HoaDon.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.infoKH.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Login.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Properties.Resources.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Register.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkdt.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkenhanvien.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkkh.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Ycbh.resources
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.GenerateResource.cache
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.CoreCompileInputs.cache
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.exe
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.pdb
+C:\Users\84961\Desktop\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.DSTD.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csprojAssemblyReference.cache
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.ResolveComReference.cache
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.BanHang.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.BCTK.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.DSTD.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmBanHang.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmBaoHanh.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmCV.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmKH.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmLSP.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmNCC.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmNV.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmPay.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmSalary.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmSP.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmTD.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.gthieu.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.HoaDon.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.infoKH.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Login.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Main.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.NV.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Properties.Resources.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Register.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.SP.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkdt.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkenhanvien.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkkh.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Ycbh.resources
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.GenerateResource.cache
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.CoreCompileInputs.cache
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.exe
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.pdb
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\bin\Debug\QLLKMT.exe.config
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\bin\Debug\QLLKMT.exe
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\bin\Debug\QLLKMT.pdb
+C:\Users\84961\Desktop\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.buildCase.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\bin\Debug\QLLKMT.exe.config
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\bin\Debug\QLLKMT.exe
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\bin\Debug\QLLKMT.pdb
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csprojAssemblyReference.cache
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.ResolveComReference.cache
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.BanHang.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.BCTK.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.buildCase.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.DSTD.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmBanHang.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmBaoHanh.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmCV.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmKH.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmLSP.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmNCC.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmNV.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmPay.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmSalary.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.FrmSP.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.frmTD.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.gthieu.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.HoaDon.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.infoKH.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Login.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Main.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.NV.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Properties.Resources.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Register.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.SP.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkdt.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkenhanvien.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.tkkh.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.Ycbh.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.GenerateResource.cache
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.csproj.CoreCompileInputs.cache
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.exe
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.pdb
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.chartdt.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.chartsp.resources
+D:\study\QLLKMT (1)\QLLKMT\QLLKMT\QLLKMT\QLLKMT\QLLKMT\obj\Debug\QLLKMT.chartkh.resources

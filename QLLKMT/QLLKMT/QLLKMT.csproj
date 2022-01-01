@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{30FBE569-B574-4A2C-A75F-C87395F7CF41}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLLKMT</RootNamespace>
+    <AssemblyName>QLLKMT</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BanHang.Designer.cs">
+      <DependentUpon>BanHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BCTK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BCTK.Designer.cs">
+      <DependentUpon>BCTK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="buildCase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="buildCase.Designer.cs">
+      <DependentUpon>buildCase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chartdt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chartdt.Designer.cs">
+      <DependentUpon>chartdt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chartkh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chartkh.Designer.cs">
+      <DependentUpon>chartkh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chartsp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chartsp.Designer.cs">
+      <DependentUpon>chartsp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DSTD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DSTD.Designer.cs">
+      <DependentUpon>DSTD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTD.Designer.cs">
+      <DependentUpon>frmTD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gthieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gthieu.Designer.cs">
+      <DependentUpon>gthieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBanHang.Designer.cs">
+      <DependentUpon>frmBanHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBaoHanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBaoHanh.Designer.cs">
+      <DependentUpon>frmBaoHanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCV.Designer.cs">
+      <DependentUpon>FrmCV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKH.Designer.cs">
+      <DependentUpon>FrmKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLSP.Designer.cs">
+      <DependentUpon>FrmLSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNCC.Designer.cs">
+      <DependentUpon>FrmNCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNV.Designer.cs">
+      <DependentUpon>FrmNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPay.Designer.cs">
+      <DependentUpon>frmPay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalary.Designer.cs">
+      <DependentUpon>frmSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSP.Designer.cs">
+      <DependentUpon>FrmSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoaDon.Designer.cs">
+      <DependentUpon>HoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="infoKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="infoKH.Designer.cs">
+      <DependentUpon>infoKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NV.Designer.cs">
+      <DependentUpon>NV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SP.Designer.cs">
+      <DependentUpon>SP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\Database\Connect.cs" />
+    <Compile Include="src\Process\NhanVien.cs" />
+    <Compile Include="tkdt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tkdt.Designer.cs">
+      <DependentUpon>tkdt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tkenhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tkenhanvien.Designer.cs">
+      <DependentUpon>tkenhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tkkh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tkkh.Designer.cs">
+      <DependentUpon>tkkh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ycbh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ycbh.Designer.cs">
+      <DependentUpon>Ycbh.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BanHang.resx">
+      <DependentUpon>BanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BCTK.resx">
+      <DependentUpon>BCTK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="buildCase.resx">
+      <DependentUpon>buildCase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chartdt.resx">
+      <DependentUpon>chartdt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chartkh.resx">
+      <DependentUpon>chartkh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chartsp.resx">
+      <DependentUpon>chartsp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DSTD.resx">
+      <DependentUpon>DSTD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBanHang.resx">
+      <DependentUpon>frmBanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBaoHanh.resx">
+      <DependentUpon>frmBaoHanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCV.resx">
+      <DependentUpon>FrmCV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKH.resx">
+      <DependentUpon>FrmKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLSP.resx">
+      <DependentUpon>FrmLSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNCC.resx">
+      <DependentUpon>FrmNCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNV.resx">
+      <DependentUpon>FrmNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPay.resx">
+      <DependentUpon>frmPay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalary.resx">
+      <DependentUpon>frmSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSP.resx">
+      <DependentUpon>FrmSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTD.resx">
+      <DependentUpon>frmTD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gthieu.resx">
+      <DependentUpon>gthieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoaDon.resx">
+      <DependentUpon>HoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infoKH.resx">
+      <DependentUpon>infoKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NV.resx">
+      <DependentUpon>NV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SP.resx">
+      <DependentUpon>SP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tkdt.resx">
+      <DependentUpon>tkdt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tkenhanvien.resx">
+      <DependentUpon>tkenhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tkkh.resx">
+      <DependentUpon>tkkh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ycbh.resx">
+      <DependentUpon>Ycbh.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="src\Form\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
